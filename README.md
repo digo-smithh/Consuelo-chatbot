@@ -1,9 +1,9 @@
 ## Consuelo-chatbot
 ##### por Rodrigo Smith
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+Um simples chatbot, feito com conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
 
-Um simples chatbot, feito com Python; conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Machine Learning
 Machine learning (aprendizado de máquina) é um sistema que pode modificar seu próprio comportamento autonomamente tendo como base a sua própria experiência — a interferência humana é mínima. Nesse caso, a experiência é o database inicial + nossas conversas com o bot.
