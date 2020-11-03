@@ -1,6 +1,6 @@
-# Consuelo-chatbot
-###### por Rodrigo Smith
-#
+## Consuelo-chatbot
+##### por Rodrigo Smith
+
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 Um simples chatbot, feito com Python; conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
