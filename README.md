@@ -1,12 +1,15 @@
-# 👩 Consuelo-chatbot-Python 👩
-### Feito por Rodrigo Smith, em Python
+# Consuelo-chatbot
+### por Rodrigo Smith
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 Um simples chatbot, feito com Python; conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
 
-## 📓 Machine Learning 📓
+##Machine Learning
 Machine learning (aprendizado de máquina) é um sistema que pode modificar seu próprio comportamento autonomamente tendo como base a sua própria experiência — a interferência humana é mínima. Nesse caso, a experiência é o database inicial + nossas conversas com o bot.
 
-## 💬 Chatterbot 💬
+##Chatterbot
 Utilizei a biblioteca Chatterbot para o aprendizado da máquina. Necessita de um database de conversas iniciais,
 que está disponibilizado em
 
@@ -17,10 +20,10 @@ A partir disso, conforme se conversa com o bot, ele aprende novas perguntas e re
 Como ele não está conectado a um banco de dados público e não são salvas as conversas no computador em que ele é executado,
 o conhecimento do bot é reiniciado toda vez que o aplicativo é fechado.
 
-## 🎨 PySimpleGUI 🎨
+##PySimpleGUI
 Também utilizei a biblioteca PySimpleGUI, que permite criar interfaces gráficas facilmente com Python (isso pode ser percebido observando o meu código, que é muito sucinto, porém, funcional).
 
-# ❓ Como usar ❓
+##Como usar
 
 ### Preparação
 Ao fazer download dos arquivos necessários, compile e execute o arquivo Consuelo.py. Para isso, é necessário ter o Python instalado (recomendo a versão 3.7.7) e uma IDE de sua preferência, como Anaconda ou Visual Studio Code (instale a extensão "Python").
