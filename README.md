@@ -1,8 +1,6 @@
-## Consuelo-chatbot
-##### por Rodrigo Smith
-
-Um simples chatbot, feito com conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
-
+# Consuelo-chatbot
+###### Um simples chatbot, feito com conceitos de Machine Learning e as bibliotecas Chatterbot e PySimpleGUI. 
+####
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 ## Machine Learning
@@ -24,9 +22,15 @@ Também utilizei a biblioteca PySimpleGUI, que permite criar interfaces gráfica
 
 ## Como usar
 
-### Preparação
+#### Preparação
 Ao fazer download dos arquivos necessários, compile e execute o arquivo Consuelo.py. Para isso, é necessário ter o Python instalado (recomendo a versão 3.7.7) e uma IDE de sua preferência, como Anaconda ou Visual Studio Code (instale a extensão "Python").
 ##### Para mais detalhes, leia https://docs.microsoft.com/pt-br/learn/modules/python-install-vscode/
 
-### Execução
+#### Execução
 Ao abrir a interface, digite alguma mensagem e aperte "Enviar" ou [Enter]. Observe que a Consuelo percebe quando você envia mensagens sem nenhum conteúdo! A Consuelo é capaz de falar inglês e português, INICIALMENTE.
+
+# License
+
+Copyright &copy; Rodrigo Smith 2020.
+
+Distributed under the MIT license. See LICENSE for more information.
